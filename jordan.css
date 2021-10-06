@@ -24,6 +24,24 @@ h3 {
     
 }
 
+p {
+    line-height: 1.3em;
+    font-size: 18px;
+    
+}
+
+ul {
+    line-height: 1.3em;
+    font-size: 18px;
+    
+}
+
+iframe {
+    align-items: center;
+    width: 100%;
+    
+}
+
 
 .top-bar {
     max-width: 1000px;
