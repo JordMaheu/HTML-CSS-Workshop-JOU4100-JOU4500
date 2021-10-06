@@ -40,17 +40,10 @@ ul {
     font-size: 18px;
 }
 
-iframe {
-    text-align: center;
-    display: block;
-    border-style: none;
-}
-
 figcaption {
     line-height: 1.3em;
     font-size: 14px;
 }
-
 
 .top-bar {
     max-width: 1000px;
