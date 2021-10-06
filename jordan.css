@@ -28,31 +28,26 @@ h3 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 18px;
     text-align: left;
-    
 }
 
 p {
     line-height: 1.3em;
     font-size: 18px;
-    
 }
 
 ul {
     line-height: 1.3em;
     font-size: 18px;
-    
 }
 
 iframe {
-    align-items: center;
-    width: 560px;
-    
+    align-content: center;
+    width:fit-content
 }
 
 figcaption {
     line-height: 1.3em;
     font-size: 14px;
-    
 }
 
 
