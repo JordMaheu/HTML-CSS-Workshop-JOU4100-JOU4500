@@ -41,7 +41,8 @@ ul {
 }
 
 iframe {
-    align-content: center;
+    align-content:center;
+    align-self: center;
 }
 
 figcaption {
