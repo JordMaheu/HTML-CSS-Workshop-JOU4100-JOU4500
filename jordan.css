@@ -11,16 +11,23 @@ body {
 
 h1 {
     background-color: burlywood;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: bolder;
+    font-size: 38px;
+    text-align: center;
 }
 
 h2 {
-    background-color: burlywood;
-
+    background-color: gainsboro;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 28px;
+    text-align: left;
 }
 
 h3 {
-    background-color: gainsboro;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    text-align: left;
     
 }
 
@@ -38,7 +45,13 @@ ul {
 
 iframe {
     align-items: center;
-    width: 100%;
+    width: 560px;
+    
+}
+
+figcaption {
+    line-height: 1.3em;
+    font-size: 14px;
     
 }
 
@@ -51,7 +64,8 @@ iframe {
 }
 
 .logo {
-   font-size: 30px;
+   font-size: 58px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
    position: absolute;
    padding: 0px 0px 0px 20px;
    z-index: 3;
@@ -69,9 +83,9 @@ iframe {
 
 .top-menu ul {
     list-style-type: none;
-    font-size: 20px; 
+    font-size: 22px; 
     float: right;
-    margin-right: 20px;
+    margin-right: 22px;
 }
 
 .top-menu li {
