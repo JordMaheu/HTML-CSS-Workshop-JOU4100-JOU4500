@@ -6,8 +6,24 @@ html, body {
 }
 
 body {
-    background-color: whitesmoke;
+    background-color: gainsboro;
 }
+
+h1 {
+    background-color: burlywood;
+    font-weight: bolder;
+}
+
+h2 {
+    background-color: burlywood;
+
+}
+
+h3 {
+    background-color: gainsboro;
+    
+}
+
 
 .top-bar {
     max-width: 1000px;
@@ -55,7 +71,7 @@ body {
 }
 
 .current-page-link {
-    background-color: grey;
+    background-color:brown;
 }
 
 .page-content {
@@ -94,7 +110,7 @@ body {
 
 .footer-content {
     padding: 5px 5px 5px 20px;
-    color: white;
+    color:white;
 }
 
 .footer-content a:link {
